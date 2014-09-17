@@ -1,0 +1,10 @@
+{
+    "name": "javorszky/wp-oauth1",
+    "description": "My feeble attempt at an oauth1 client",
+    "require": {
+        "wp-api/client": "dev-master",
+        "rmccue/requests": "~1.6",
+        "justinrainbow/json-schema": "dev-master",
+        "markjaquith/wp-tlc-transients": "*"
+    }
+}
